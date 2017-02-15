@@ -59,7 +59,7 @@ $(document).ready(function() {
     $("#esc-show").toggle();
     $("#esc-hide").toggle();
   });
-  $(".alert").click(function() {
+  $(".alertz").click(function() {
     $("#alert-show").toggle();
     $("#alert-hide").toggle();
   });
